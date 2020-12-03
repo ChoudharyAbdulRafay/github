@@ -32,4 +32,4 @@ jobs:
       - name: deploying using surge
         run: surge ./ bootcamp2025.surge.sh --token $ {{ secrets.ABDULRAFAYSALEEM }}
          
-{{
+
